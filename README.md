@@ -34,3 +34,17 @@ have added on database.
 - (h) Update page: My Art&Craft List page i have implement a card, and added a update button. if user will click this button it will redirect the user in update form. here user update her item informations.
 
 
+
+* The Technology i have used in the project..........
+        1. Html,
+        2. Tailwind-css,
+        3. Daisy ui,
+        4. React.js,
+        5. React Router Dom,
+        6. JavaScript,
+        8. Node.js.
+        9. Express.js.
+        10. Json web token ( JWT).
+        11. MongoDB. etc.
+        
+
